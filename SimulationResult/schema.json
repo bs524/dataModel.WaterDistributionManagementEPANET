@@ -56,7 +56,10 @@
                 "outputFile": {
                     "type": "string",
                     "value": "string",
+                    "description": "Property. Provides a http link to the complete epanet simulation result stored in a binary output file"
                 }
+            }
+        }
     ],
     "required": [
         "id",
