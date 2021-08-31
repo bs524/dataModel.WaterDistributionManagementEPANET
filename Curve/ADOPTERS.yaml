@@ -1,10 +1,10 @@
 description: This is a compilation list of the current adopters of the data model Curve of the Subject dataModel.WaterNetworkManagementEPANET.  All fields are non mandatory. More info at https://smart-data-models.github.io/data-models/templates/dataModel/CURRENT_ADOPTERS.yaml
 currentAdopters:
 -
- adopter: 
- description: 
+ adopter: Aqua3S
+ description: Standardizing sensor technologies to improve drinking water safety and security. 
  mail: 
  organization: 
- project: 
+ project: https://aqua3s.eu/
  comments: 
- startDate: 
+ startDate: 2019-09-01
